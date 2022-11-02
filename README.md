@@ -16,3 +16,4 @@ Follow along the book of Jon Duckett `JavaScript & Query interactive front-end d
 10. Error Handling & Debugging
 11. Content Panels
 12. Filtering, Searching & Validation
+13. Form Enhancement & Validation
